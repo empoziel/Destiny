@@ -10,4 +10,4 @@ HTML5 CSS3
 
 ## Preview
 
-soon..
+![](project.gif)
